@@ -22,7 +22,7 @@ This project demonstrates the use of **web technologies (HTML, CSS, JavaScript, 
 
 ## 📂 Project Structure
 
-```
+
 
 ```
 polling-system/
@@ -77,6 +77,7 @@ polling-system/
 │   └── .gitignore
 │
 └── README.md                        # Main project documentation
+
 ```
 
 ---
